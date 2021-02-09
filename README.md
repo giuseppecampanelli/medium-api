@@ -4,8 +4,6 @@ Node.js library to fetch recent Medium user posts.
 
 ## Installation
 
-To install Nuxt Native, start by downloading the repository and install its dependencies.
-
 ```
 npm install @giuseppecampanelli/medium-api
 ```
