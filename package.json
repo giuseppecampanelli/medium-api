@@ -1,6 +1,6 @@
 {
-  "name": "mediumapi",
-  "version": "0.1.0",
+  "name": "@giuseppecampanelli/medium-api",
+  "version": "1.0.0",
   "description": "Node.js library to fetch recent Medium user posts.",
   "main": "index.js",
   "keywords": [
@@ -17,5 +17,12 @@
   "homepage": "https://github.com/giuseppecampanelli/medium-api#readme",
   "dependencies": {
     "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
   }
 }
