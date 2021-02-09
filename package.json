@@ -1,0 +1,21 @@
+{
+  "name": "mediumapi",
+  "version": "0.1.0",
+  "description": "Node.js library to fetch recent Medium user posts.",
+  "main": "index.js",
+  "keywords": [
+    "medium",
+    "api",
+    "node"
+  ],
+  "author": "Giuseppe Campanelli",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/giuseppecampanelli/medium-api.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/giuseppecampanelli/medium-api#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
